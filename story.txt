@@ -1,4 +1,8 @@
 Hi jc
 
+<<<<<<< HEAD
 nenen
 colq
+goodmorning!!
+=======
+>>>>>>> alt-introduction
